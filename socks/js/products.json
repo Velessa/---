@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"title": ">Носки с кеглями",
+		"price": 300,
+		"imgSrc": "img/roll/1.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Носки с цветочками",
+		"price": 250,
+		"imgSrc": "img/roll/2.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Носки с бейсболом",
+		"price": 230,
+		"imgSrc": "img/roll/3.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Носки с авокадо",
+		"price": 320,
+		"imgSrc": "img/roll/4.jpg"
+	}
+]
